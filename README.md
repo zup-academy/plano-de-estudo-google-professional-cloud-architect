@@ -99,6 +99,7 @@ A prova é dividida em seções:
 	- Configurar sistemas de computação.
 
 		- Tópicos chave:
+
 			- Cloud VPN
 			- VPC Flow Logs
 			- Enable Identity-Aware Proxy (IAP)
@@ -118,6 +119,7 @@ A prova é dividida em seções:
 	- Projetar visando a conformidade.
 
 		- Tópicos chave:
+
 			- project
 			- organization
 			- hierarchy
@@ -140,7 +142,8 @@ A prova é dividida em seções:
 	- Analisar e definir processos comerciais.
 	- Desenvolver procedimentos para garantir a confiabilidade das soluções em produção (por exemplo, engenharia do caos e teste de penetração)
 
-		Tópicos chave:
+		- Tópicos chave:
+
 			- Terraform
 			- Build trigger
 			- Cloud build
@@ -156,7 +159,8 @@ A prova é dividida em seções:
 	- Aconselhar equipes de desenvolvimento e operação para garantir a implantação bem-sucedida da solução.
 	- Interagir com o Google Cloud de maneira programática.
 
-		Tópicos chave:
+		- Tópicos chave:
+
 			- billing account
 			- administrator role
 			- billing alerts
@@ -178,9 +182,6 @@ A prova é dividida em seções:
 	- Gerenciamento de implantação e liberação
 	- Ajudar no suporte das soluções implantadas
 	- Avaliar as medidas de controle de qualidade.
-
-		Tópicos chave:
-			- 
 
 Aqui reside a doc oficial sobre a certificação, com todo material sobre, incluindo a opção de agendar o exame: https://cloud.google.com/certification/guides/professional-cloud-architect?hl=pt-br
 
