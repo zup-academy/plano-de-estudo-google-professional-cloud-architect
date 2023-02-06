@@ -13,6 +13,36 @@ A preparação e a obtenção desta certificação demonstrarão:
 * Gerenciar implementações de arquitetura de nuvem
 * Garantir a confiabilidade das soluções e operações
 
+### Por quê obter a certificação Google Professional Cloud Architect (motivação do plano de estudo)
+
+A certificação Google Professional Cloud Architect é uma das certificações mais procuradas na área de nuvem, e existem várias razões pelas quais alguém pode optar por obtê-la:
+
+- Validação de habilidades: a certificação demonstra que o indivíduo tem conhecimento e experiência em projetar soluções na nuvem usando o Google Cloud Platform.
+
+- Destaque no mercado de trabalho: a certificação Google Cloud é amplamente reconhecida e procurada por empregadores em todo o mundo. Ter a certificação pode ajudar a se destacar entre outros candidatos.
+
+- Aumento de salário: os profissionais certificados geralmente têm salários mais elevados do que aqueles sem certificação.
+
+- Oportunidades de crescimento profissional: a certificação pode abrir novas oportunidades de carreira para aqueles que buscam crescimento profissional na área de nuvem.
+
+- Atualização de habilidades: obter a certificação exige que o indivíduo mantenha-se atualizado com as últimas tendências e tecnologias na nuvem do Google.
+
+- Diferenciação: a certificação Google Cloud é uma forma de se destacar em um mercado altamente competitivo, já que a maioria dos profissionais de nuvem está familiarizada com o AWS, mas não necessariamente com o Google Cloud Platform.
+
+### Pré requisitos
+
+A Google não estabelece pré-requisitos oficiais para a certificação Google Professional Cloud Architect, mas recomenda que os candidatos tenham experiência prévia em projetar e implementar soluções na nuvem. Algumas dicas incluem:
+
+- Conhecimento de infraestrutura de nuvem: ter familiaridade com conceitos de nuvem, como alta disponibilidade, escalabilidade, segurança, entre outros.
+
+- Conhecimento do Google Cloud Platform (GCP): entender os serviços do GCP, como Compute Engine, Kubernetes Engine, Cloud Storage, entre outros.
+
+- Experiência prática: praticar projetando e implementando soluções na nuvem usando o GCP pode ser útil antes de realizar a prova de certificação.
+
+- Estudo e preparação: estudar para a prova, revisar materiais de treinamento e realizar simulações de provas são uma parte importante da preparação para a certificação.
+
+Em geral, a Google recomenda que os candidatos tenham pelo menos algum conhecimento e experiência prévia em projetar soluções em nuvem antes de se prepararem para a certificação. Além disso, existem muitos cursos e recursos de treinamento disponíveis online que podem ajudar a se preparar para a prova.
+
 ### palavras chaves
 
 - Organizations
@@ -92,6 +122,65 @@ A prova é dividida em seções:
 			- Anthos
 			- Bigquery
 
+Esse domínio habilita competências em (habilidades ganhas com o tópico apresentado):
+
+- Casos de uso comerciais e estratégia de produtos
+
+- Otimização de custos
+
+- Compatibilidade com o projeto do aplicativo
+
+- Integração com sistemas externos
+
+- Movimentação de dados
+
+- Dilemas na decisão sobre design
+
+- Criação, compra, modificação ou suspensão do uso
+
+- Medições de sucesso (por exemplo, indicadores principais de desempenho [KPI], retorno do investimento [ROI] e métricas)
+
+- Conformidade e observabilidade
+
+- Alta disponibilidade e projeto de failover
+
+- Elasticidade dos recursos da nuvem em relação a cotas e limites
+
+- Escalonabilidade para atender aos requisitos de crescimento
+
+- Desempenho e latência
+
+- Integração com ambientes locais/de várias nuvens
+
+- Redes nativas da nuvem (VPC, peering, firewalls e redes de contêineres)
+
+- Escolha de tecnologias de processamento de dados
+
+- Escolha de tipos de armazenamento apropriados (por exemplo, objeto, arquivo e bancos de dados)
+
+- Escolha de recursos de computação (por exemplo, preemptivo, tipo de máquina personalizado e carga de trabalho  especializada)
+
+- Mapeamento de necessidades de computação para produtos de plataforma
+
+- Integração de soluções com os sistemas atuais
+
+- Migração de sistemas e dados para auxiliar a solução
+
+- Mapeamento de licença de software
+
+- Planejamento de rede
+
+- Teste e prova de conceito
+
+- Planejamento de gerenciamento de dependências
+
+- Melhorias na nuvem e na tecnologia
+
+- Evolução das necessidades empresariais
+
+- Propaganda e apoio
+
+
 - Gerenciamento e provisionamento da infraestrutura da solução
 
 	- Configurar topologias de rede.
@@ -112,7 +201,58 @@ A prova é dividida em seções:
 			- Labels
 			- Url map
 
-					
+Esse domínio habilita competências em (habilidades ganhas com o tópico apresentado):
+			
+- Extensão para ambientes locais (rede híbrida)
+
+- Extensão para um ambiente com várias nuvens que pode incluir comunicação do Google Cloud para o Google Cloud
+
+- Proteção da segurança (por exemplo, proteção contra invasão, controle de acesso e firewalls)
+
+- Alocação de armazenamento de dados
+
+- Provisionamento de computação e processamento de dados
+
+- Gerenciamento de segurança e acesso
+
+- Configuração de rede para latência e transferência de dados
+
+- Retenção de dados e gerenciamento do ciclo de vida de dados
+
+- Planejamento de crescimento de dados
+
+- Provisionamento de recursos de computação
+
+- Configuração da volatilidade de computação (preemptiva x padrão)
+
+- Configuração de rede para recursos de computação (Google Compute Engine, Google Kubernetes Engine e rede sem servidor)
+
+- Orquestração de infraestrutura, configuração de recursos e gerenciamento de patches
+
+- Orquestração de contêineres
+
+- Identity and Access Management (IAM)
+
+- Hierarquia de recursos (organizações, pastas, projetos)
+
+- Segurança de dados (gerenciamento de chaves, criptografia e gerenciamento de secrets)
+
+- Separação de deveres (SoD, na sigla em inglês)
+
+- Controles de segurança (por exemplo, auditoria, VPC Service Controls, acesso baseado no contexto e política da organização)
+
+- Gerenciamento de chaves de criptografia gerenciadas pelo cliente com o Cloud Key Management Service
+
+- Acesso remoto
+
+- Legislação (por exemplo, privacidade de registros de saúde, privacidade das crianças, privacidade dos dados e propriedade)
+
+- Comercial (por exemplo, dados confidenciais como informações de cartões de crédito e informações de identificação pessoal [PII])
+
+- Certificações do setor (por exemplo, SOC 2)
+
+- Auditorias (incluindo registros)
+
 - Projeto para segurança e conformidade
 
 	- Projetar com foco na segurança.
@@ -136,6 +276,30 @@ A prova é dividida em seções:
 			- ACL
 			- Security Command Center (SCC)
 
+Esse domínio habilita competências em (habilidades ganhas com o tópico apresentado):
+
+- Identity and Access Management (IAM)
+
+- Hierarquia de recursos (organizações, pastas, projetos)
+
+- Segurança de dados (gerenciamento de chaves, criptografia e gerenciamento de secrets)
+
+- Separação de deveres (SoD, na sigla em inglês)
+
+- Controles de segurança (por exemplo, auditoria, VPC Service Controls, acesso baseado no contexto e política da organização)
+
+- Gerenciamento de chaves de criptografia gerenciadas pelo cliente com o Cloud Key Management Service
+
+- Acesso remoto
+
+- Legislação (por exemplo, privacidade de registros de saúde, privacidade das crianças, privacidade dos dados e propriedade)
+
+- Comercial (por exemplo, dados confidenciais como informações de cartões de crédito e informações de identificação pessoal [PII])
+
+- Certificações do setor (por exemplo, SOC 2)
+
+- Auditorias (incluindo registros)
+
 - Análise e otimização de processos técnicos e comerciais
 
 	- Analisar e definir processos técnicos.
@@ -153,6 +317,32 @@ A prova é dividida em seções:
 			- Scheduled snapshot
 			- Artifact Registry
 			- persistent disks
+
+Esse domínio habilita competências em (habilidades ganhas com o tópico apresentado):
+
+- Ciclo de vida do desenvolvimento de software (SDLC, na sigla em inglês)
+
+- Integração e implantação contínuas
+
+- Práticas recomendadas para a solução de problemas/análise da causa raiz
+
+- Teste e validação de software e infraestrutura
+
+- Catálogo de serviços e provisionamento
+
+- Continuidade comercial e recuperação de desastres
+
+- Gestão das partes interessadas (por exemplo, influência e mediação)
+
+- Gestão da mudança
+
+- Avaliação da equipe/prontidão de habilidades
+
+- Processos para tomada de decisão
+
+- Gerenciamento de sucesso do cliente
+
+- Otimização de custos e otimização de recursos (Capex e Opex)
 
 - Gerenciamento da implementação
 
@@ -176,12 +366,30 @@ A prova é dividida em seções:
 			- Cloud run
 			- Cloud debugger
 
+Esse domínio habilita competências em (habilidades ganhas com o tópico apresentado):
+
 - Garantia da confiabilidade das soluções e operações
 
 	- Solução de monitoramento/registro/criação de perfis/alertas
 	- Gerenciamento de implantação e liberação
 	- Ajudar no suporte das soluções implantadas
 	- Avaliar as medidas de controle de qualidade.
+
+Esse domínio habilita competências em (habilidades ganhas com o tópico apresentado):
+
+- Desenvolvimento de aplicativos
+
+- Práticas recomendadas de APIs
+
+- Frameworks de teste (carga/unidade/integração)
+
+- Ferramentas de gestão/migração de dados e sistema
+
+- Google Cloud Shell
+
+- SDK do Google Cloud (gcloud, gsutil e bq)
+
+- Emuladores do Cloud (por exemplo, Cloud Bigtable, Datastore, Spanner, Pub/Sub e Firestore)
 
 Aqui reside a doc oficial sobre a certificação, com todo material sobre, incluindo a opção de agendar o exame: https://cloud.google.com/certification/guides/professional-cloud-architect?hl=pt-br
 
@@ -443,9 +651,17 @@ Um bom score nos simulados pode dar uma boa pista de como está o entendimento s
 
 ### Pessoas que são autoridade sobre o tema
 
-- Arquitetos de soluções
-- Devops/Sre's
-- Pessoas já certificadas
+Anthony Bartolo (Principal Leading Academic Cloud Advocacy @ Microsoft)
+
+Linkedin: https://www.linkedin.com/in/wirelesslife/
+
+Twitter: https://twitter.com/WirelessLife
+
+Leonardo Silva dos Santos (Especialista Devops) 
+
+Linkedin: https://www.linkedin.com/in/rmnobarra/
+
+Twitter: https://twitter.com/rmnobarra
 
 ### Fontes de consumo fácil
 
