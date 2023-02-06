@@ -651,11 +651,11 @@ Um bom score nos simulados pode dar uma boa pista de como está o entendimento s
 
 ### Pessoas que são autoridade sobre o tema
 
-Anthony Bartolo (Principal Leading Academic Cloud Advocacy @ Microsoft)
+Neal Davis (Founder of Digital Cloud Training, AWS Community Builder, Cloud Solutions Architect, Udemy Instructor Partner)
 
-Linkedin: https://www.linkedin.com/in/wirelesslife/
+Linkedin: https://www.linkedin.com/in/nealkdavis/
 
-Twitter: https://twitter.com/WirelessLife
+Twitter: https://twitter.com/nealkdavis
 
 Leonardo Silva dos Santos (Especialista Devops) 
 
