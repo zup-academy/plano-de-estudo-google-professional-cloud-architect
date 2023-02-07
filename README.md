@@ -122,63 +122,63 @@ A prova é dividida em seções:
 			- Anthos
 			- Bigquery
 
-Esse domínio habilita competências em (habilidades ganhas com o tópico apresentado):
+	Esse domínio habilita competências em (habilidades ganhas com o tópico apresentado):
 
-- Casos de uso comerciais e estratégia de produtos
+  - Casos de uso comerciais e estratégia de produtos
 
-- Otimização de custos
+  - Otimização de custos
 
-- Compatibilidade com o projeto do aplicativo
+  - Compatibilidade com o projeto do aplicativo
 
-- Integração com sistemas externos
+  - Integração com sistemas externos
 
-- Movimentação de dados
+  - Movimentação de dados
 
-- Dilemas na decisão sobre design
+  - Dilemas na decisão sobre design
 
-- Criação, compra, modificação ou suspensão do uso
+  - Criação, compra, modificação ou suspensão do uso
 
-- Medições de sucesso (por exemplo, indicadores principais de desempenho [KPI], retorno do investimento [ROI] e métricas)
+  - Medições de sucesso (por exemplo, indicadores principais de desempenho [KPI], retorno do investimento [ROI] e 		métricas)
 
-- Conformidade e observabilidade
+  - Conformidade e observabilidade
 
-- Alta disponibilidade e projeto de failover
+  - Alta disponibilidade e projeto de failover
 
-- Elasticidade dos recursos da nuvem em relação a cotas e limites
+  - Elasticidade dos recursos da nuvem em relação a cotas e limites
 
-- Escalonabilidade para atender aos requisitos de crescimento
+  - Escalonabilidade para atender aos requisitos de crescimento
 
-- Desempenho e latência
+  - Desempenho e latência
 
-- Integração com ambientes locais/de várias nuvens
+  - Integração com ambientes locais/de várias nuvens
 
-- Redes nativas da nuvem (VPC, peering, firewalls e redes de contêineres)
+  - Redes nativas da nuvem (VPC, peering, firewalls e redes de contêineres)
 
-- Escolha de tecnologias de processamento de dados
+  - Escolha de tecnologias de processamento de dados
 
-- Escolha de tipos de armazenamento apropriados (por exemplo, objeto, arquivo e bancos de dados)
+  - Escolha de tipos de armazenamento apropriados (por exemplo, objeto, arquivo e bancos de dados)
 
-- Escolha de recursos de computação (por exemplo, preemptivo, tipo de máquina personalizado e carga de trabalho  especializada)
+  - Escolha de recursos de computação (por exemplo, preemptivo, tipo de máquina personalizado e carga de trabalho  especializada)
 
-- Mapeamento de necessidades de computação para produtos de plataforma
+  - Mapeamento de necessidades de computação para produtos de plataforma
 
-- Integração de soluções com os sistemas atuais
+  - Integração de soluções com os sistemas atuais
 
-- Migração de sistemas e dados para auxiliar a solução
+  - Migração de sistemas e dados para auxiliar a solução
 
-- Mapeamento de licença de software
+  - Mapeamento de licença de software
 
-- Planejamento de rede
+  - Planejamento de rede
 
-- Teste e prova de conceito
+  - Teste e prova de conceito
 
-- Planejamento de gerenciamento de dependências
+  - Planejamento de gerenciamento de dependências
 
-- Melhorias na nuvem e na tecnologia
+  - Melhorias na nuvem e na tecnologia
 
-- Evolução das necessidades empresariais
+  - Evolução das necessidades empresariais
 
-- Propaganda e apoio
+  - Propaganda e apoio
 
 
 - Gerenciamento e provisionamento da infraestrutura da solução
@@ -201,57 +201,57 @@ Esse domínio habilita competências em (habilidades ganhas com o tópico aprese
 			- Labels
 			- Url map
 
-Esse domínio habilita competências em (habilidades ganhas com o tópico apresentado):
+	Esse domínio habilita competências em (habilidades ganhas com o tópico apresentado):
 			
-- Extensão para ambientes locais (rede híbrida)
+  - Extensão para ambientes locais (rede híbrida)
 
-- Extensão para um ambiente com várias nuvens que pode incluir comunicação do Google Cloud para o Google Cloud
+  - Extensão para um ambiente com várias nuvens que pode incluir comunicação do Google Cloud para o Google Cloud
 
-- Proteção da segurança (por exemplo, proteção contra invasão, controle de acesso e firewalls)
+  - Proteção da segurança (por exemplo, proteção contra invasão, controle de acesso e firewalls)
 
-- Alocação de armazenamento de dados
+  - Alocação de armazenamento de dados
 
-- Provisionamento de computação e processamento de dados
+  - Provisionamento de computação e processamento de dados
 
-- Gerenciamento de segurança e acesso
+  - Gerenciamento de segurança e acesso
 
-- Configuração de rede para latência e transferência de dados
+  - Configuração de rede para latência e transferência de dados
 
-- Retenção de dados e gerenciamento do ciclo de vida de dados
+  - Retenção de dados e gerenciamento do ciclo de vida de dados
 
-- Planejamento de crescimento de dados
+  - Planejamento de crescimento de dados
 
-- Provisionamento de recursos de computação
+  - Provisionamento de recursos de computação
 
-- Configuração da volatilidade de computação (preemptiva x padrão)
+  - Configuração da volatilidade de computação (preemptiva x padrão)
 
-- Configuração de rede para recursos de computação (Google Compute Engine, Google Kubernetes Engine e rede sem servidor)
+  - Configuração de rede para recursos de computação (Google Compute Engine, Google Kubernetes Engine e rede sem servidor)
 
-- Orquestração de infraestrutura, configuração de recursos e gerenciamento de patches
+  - Orquestração de infraestrutura, configuração de recursos e gerenciamento de patches
 
-- Orquestração de contêineres
+  - Orquestração de contêineres
 
-- Identity and Access Management (IAM)
+  - Identity and Access Management (IAM)
 
-- Hierarquia de recursos (organizações, pastas, projetos)
+  - Hierarquia de recursos (organizações, pastas, projetos)
 
-- Segurança de dados (gerenciamento de chaves, criptografia e gerenciamento de secrets)
+  - Segurança de dados (gerenciamento de chaves, criptografia e gerenciamento de secrets)
 
-- Separação de deveres (SoD, na sigla em inglês)
+  - Separação de deveres (SoD, na sigla em inglês)
 
-- Controles de segurança (por exemplo, auditoria, VPC Service Controls, acesso baseado no contexto e política da organização)
+  - Controles de segurança (por exemplo, auditoria, VPC Service Controls, acesso baseado no contexto e política da organização)
 
-- Gerenciamento de chaves de criptografia gerenciadas pelo cliente com o Cloud Key Management Service
+  - Gerenciamento de chaves de criptografia gerenciadas pelo cliente com o Cloud Key Management Service
 
-- Acesso remoto
+  - Acesso remoto
 
-- Legislação (por exemplo, privacidade de registros de saúde, privacidade das crianças, privacidade dos dados e propriedade)
+  - Legislação (por exemplo, privacidade de registros de saúde, privacidade das crianças, privacidade dos dados e propriedade)
 
-- Comercial (por exemplo, dados confidenciais como informações de cartões de crédito e informações de identificação pessoal [PII])
+  - Comercial (por exemplo, dados confidenciais como informações de cartões de crédito e informações de identificação pessoal [PII])
 
-- Certificações do setor (por exemplo, SOC 2)
+  - Certificações do setor (por exemplo, SOC 2)
 
-- Auditorias (incluindo registros)
+  - Auditorias (incluindo registros)
 
 - Projeto para segurança e conformidade
 
@@ -276,29 +276,29 @@ Esse domínio habilita competências em (habilidades ganhas com o tópico aprese
 			- ACL
 			- Security Command Center (SCC)
 
-Esse domínio habilita competências em (habilidades ganhas com o tópico apresentado):
+	Esse domínio habilita competências em (habilidades ganhas com o tópico apresentado):
 
-- Identity and Access Management (IAM)
+  - Identity and Access Management (IAM)
 
-- Hierarquia de recursos (organizações, pastas, projetos)
+  - Hierarquia de recursos (organizações, pastas, projetos)
 
-- Segurança de dados (gerenciamento de chaves, criptografia e gerenciamento de secrets)
+  - Segurança de dados (gerenciamento de chaves, criptografia e gerenciamento de secrets)
 
-- Separação de deveres (SoD, na sigla em inglês)
+  - Separação de deveres (SoD, na sigla em inglês)
 
-- Controles de segurança (por exemplo, auditoria, VPC Service Controls, acesso baseado no contexto e política da organização)
+  - Controles de segurança (por exemplo, auditoria, VPC Service Controls, acesso baseado no contexto e política da organização)
 
-- Gerenciamento de chaves de criptografia gerenciadas pelo cliente com o Cloud Key Management Service
+  - Gerenciamento de chaves de criptografia gerenciadas pelo cliente com o Cloud Key Management Service
 
-- Acesso remoto
+  - Acesso remoto
 
-- Legislação (por exemplo, privacidade de registros de saúde, privacidade das crianças, privacidade dos dados e propriedade)
+  - Legislação (por exemplo, privacidade de registros de saúde, privacidade das crianças, privacidade dos dados e propriedade)
 
-- Comercial (por exemplo, dados confidenciais como informações de cartões de crédito e informações de identificação pessoal [PII])
+  - Comercial (por exemplo, dados confidenciais como informações de cartões de crédito e informações de identificação pessoal [PII])
 
-- Certificações do setor (por exemplo, SOC 2)
+  - Certificações do setor (por exemplo, SOC 2)
 
-- Auditorias (incluindo registros)
+  - Auditorias (incluindo registros)
 
 - Análise e otimização de processos técnicos e comerciais
 
@@ -318,31 +318,31 @@ Esse domínio habilita competências em (habilidades ganhas com o tópico aprese
 			- Artifact Registry
 			- persistent disks
 
-Esse domínio habilita competências em (habilidades ganhas com o tópico apresentado):
+	Esse domínio habilita competências em (habilidades ganhas com o tópico apresentado):
 
-- Ciclo de vida do desenvolvimento de software (SDLC, na sigla em inglês)
+  - Ciclo de vida do desenvolvimento de software (SDLC, na sigla em inglês)
 
-- Integração e implantação contínuas
+  - Integração e implantação contínuas
 
-- Práticas recomendadas para a solução de problemas/análise da causa raiz
+  - Práticas recomendadas para a solução de problemas/análise da causa raiz
 
-- Teste e validação de software e infraestrutura
+  - Teste e validação de software e infraestrutura
 
-- Catálogo de serviços e provisionamento
+  - Catálogo de serviços e provisionamento
 
-- Continuidade comercial e recuperação de desastres
+  - Continuidade comercial e recuperação de desastres
 
-- Gestão das partes interessadas (por exemplo, influência e mediação)
+  - Gestão das partes interessadas (por exemplo, influência e mediação)
 
-- Gestão da mudança
+  - Gestão da mudança
 
-- Avaliação da equipe/prontidão de habilidades
+  - Avaliação da equipe/prontidão de habilidades
 
-- Processos para tomada de decisão
+  - Processos para tomada de decisão
 
-- Gerenciamento de sucesso do cliente
+  - Gerenciamento de sucesso do cliente
 
-- Otimização de custos e otimização de recursos (Capex e Opex)
+  - Otimização de custos e otimização de recursos (Capex e Opex)
 
 - Gerenciamento da implementação
 
@@ -366,30 +366,45 @@ Esse domínio habilita competências em (habilidades ganhas com o tópico aprese
 			- Cloud run
 			- Cloud debugger
 
-Esse domínio habilita competências em (habilidades ganhas com o tópico apresentado):
+	Esse domínio habilita competências em (habilidades ganhas com o tópico apresentado):
+
+  - Desenvolvimento de aplicativos
+
+  - Práticas recomendadas de APIs
+
+  - Frameworks de teste (carga/unidade/integração)
+
+  - Ferramentas de gestão/migração de dados e sistema
+
+  - Google Cloud Shell
+
+  - SDK do Google Cloud (gcloud, gsutil e bq)
+
+  - Emuladores do Cloud (por exemplo, Cloud Bigtable, Datastore, Spanner, Pub/Sub e Firestore)
+
 
 - Garantia da confiabilidade das soluções e operações
 
-	- Solução de monitoramento/registro/criação de perfis/alertas
-	- Gerenciamento de implantação e liberação
-	- Ajudar no suporte das soluções implantadas
+  - Tópicos chave:
+    - cloud emulators
+    - cost optimization
+    - finops
+    - monitoring
+    - refactoring
+    - disaster recovery
+    - Google Cloud’s operations suite
+
+
+	Esse domínio habilita competências em (habilidades ganhas com o tópico apresentado):
+
+  - Solução de monitoramento/registro/criação de perfis/alertas
+  
+  - Gerenciamento de implantação e liberação
+  
+  - Ajudar no suporte das soluções implantadas
+  
 	- Avaliar as medidas de controle de qualidade.
 
-Esse domínio habilita competências em (habilidades ganhas com o tópico apresentado):
-
-- Desenvolvimento de aplicativos
-
-- Práticas recomendadas de APIs
-
-- Frameworks de teste (carga/unidade/integração)
-
-- Ferramentas de gestão/migração de dados e sistema
-
-- Google Cloud Shell
-
-- SDK do Google Cloud (gcloud, gsutil e bq)
-
-- Emuladores do Cloud (por exemplo, Cloud Bigtable, Datastore, Spanner, Pub/Sub e Firestore)
 
 Aqui reside a doc oficial sobre a certificação, com todo material sobre, incluindo a opção de agendar o exame: https://cloud.google.com/certification/guides/professional-cloud-architect?hl=pt-br
 
